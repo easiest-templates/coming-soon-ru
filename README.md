@@ -1,46 +1,13 @@
-![Preview](https://cdn.poehali.dev/templates/coming-soon-ru/preview.jpg)
+# Скоро запуск — страница ожидания
 
-# Coming Soon (RU)
+![Preview](https://cdn.poehali.dev/templates/coming-soon-ru/preview-ru.jpg)
 
-Страница "Скоро запуск" с формой сбора email для waitlist и обратным отсчетом до старта.
+Простая и эффективная страница "Coming Soon" для сбора email-адресов перед запуском продукта. Включает обратный отсчёт до даты запуска и форму подписки. Универсальный шаблон, который подойдёт для любого проекта.
 
-## Функционал
-
-- Обратный отсчет до даты запуска (30 дней от текущей даты)
-- Форма сбора email для waitlist
+Включает:
+- Обратный отсчёт (дни, часы, минуты, секунды)
+- Форма сбора email
+- Социальные ссылки
 - Адаптивный дизайн
-- Поддержка темной/светлой темы
-- Социальные ссылки (Telegram, Twitter, GitHub, Email)
 
-## Технологии
-
-- React 18
-- TypeScript
-- Vite
-- Tailwind CSS
-- shadcn/ui компоненты
-- Lucide React (иконки)
-
-## Установка
-
-```bash
-npm install
-```
-
-## Разработка
-
-```bash
-npm run dev
-```
-
-## Сборка
-
-```bash
-npm run build
-```
-
-## Теги
-
-```json
-["waitlist", "dark", "general"]
-```
+"tags": ["waitlist", "dark", "general"]
